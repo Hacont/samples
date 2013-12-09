@@ -50,13 +50,13 @@
 				<version>2.2.1</version>
 				<configuration>
 					<driver>com.mysql.jdbc.Driver</driver>
-					<url>jdbc:mysql://192.168.1.50:3306/samples</url>
+					<!--  <url>jdbc:mysql://192.168.1.50:3306/samples</url> -->
+					<url>jdbc:mysql://localhost:3306/samples</url>
 					<user>sample_user</user>
 					<password>sample_user</password>
 				</configuration>
 			</plugin>
 		</plugins>
 	</build>
-
 
 </project>
