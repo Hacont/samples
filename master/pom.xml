@@ -12,6 +12,7 @@
 	<modules>
 		<module>dbbuild</module>
 		<module>db-build</module>
+		<module>sample-db-build</module>
 	</modules>
 
 	<properties>
