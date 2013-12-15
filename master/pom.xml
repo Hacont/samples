@@ -13,6 +13,7 @@
 		<module>dbbuild</module>
 		<module>db-build</module>
 		<module>sample-db-build</module>
+		<module>sample-spring-batch</module>
 	</modules>
 
 	<properties>
